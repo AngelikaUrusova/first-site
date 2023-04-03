@@ -1,0 +1,93 @@
+@media (max-width: 1024px) {
+
+    .header {
+        padding-left: 32px;
+        padding-right: 32px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+
+    .logo {
+        margin-left: 0;
+    }
+
+    .menu {
+        margin-left: 0;
+        padding: 0;
+    }
+
+    .menu_link {
+        font-size: 18px;
+        padding: 20px 12px;
+    }
+
+    .enter {
+        margin: 0;
+    }
+
+    .content {
+        padding-left: calc(50% - 820PX / 2);
+        padding-right: calc(50% - 820PX / 2);
+    }
+
+    .foto_welcome {
+        width: 100%;
+        height: auto;
+    }
+
+    .content_section {
+        max-width: 65%;
+    }
+
+    .content_info {
+        display: flex;
+        justify-content: flex-start;
+        flex-wrap: wrap;
+    }
+
+    .heading {
+        left: -70px;
+    }
+
+    .quotes-right {
+        right: 3px;
+    }
+
+    .content-students {
+        margin-left: 90px;
+    }
+
+    .about {
+        padding-left: calc(50% - 820px / 2);
+        padding-right: calc(50% - 820px / 2);
+    }
+
+    .video_1 {
+        width: 100%;
+        height: auto;
+    }
+
+    .find {
+        padding-left: calc(50% - 852px / 2);
+        padding-right: calc(50% - 852px / 2);
+    }
+
+    .subtitle_contacts {
+        padding-left: calc(50% - 820px / 2);
+        padding-right: calc(50% - 820px / 2);
+    }
+
+    .map {
+        width: 100%;
+        height: auto;
+    }
+
+    .our__contacts {
+        margin-left: 50px;
+    }
+
+    .address {
+        margin-left: 50px;
+    }
+}
+

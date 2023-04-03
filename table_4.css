@@ -1,0 +1,38 @@
+@media screen (max-width: 320px) {
+    .body {
+        margin-left: 30px;
+        margin-right: 30px;
+    }
+
+    .menu_link {
+        font-size: 15px;
+        padding: 12px 15px;
+    }
+
+    .enter {
+        font-size: 15px;
+    }
+
+    .title {
+        font-size: 20px;
+    }
+
+    .foto_welcome {
+        width: 260px;
+        height: 166px;
+    }
+
+    .heading {
+        top: -19px;
+        left: 71px;
+    }
+
+    .about {
+        padding-left: calc(50% - 260px / 2);
+        padding-right: calc(50% - 260px / 2);
+    }
+
+    .subtitle_about {
+        font-size: 20px;
+    }
+}

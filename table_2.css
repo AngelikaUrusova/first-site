@@ -1,0 +1,55 @@
+@media screen (max-width: 768px) {
+
+    .header {
+        padding-left: 16px;
+        padding-right: 16px;
+        flex-direction: column;
+        padding-bottom: 10px;
+        padding-top: 10px;
+    }
+
+    .menu {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 5px;
+        margin-bottom: 6px;
+    }
+
+    .heading {
+        left: 0;
+        margin-bottom: 150px;
+    }
+
+    .subtitle_about {
+        margin-left: 0px;
+    }
+
+    .video_1 {
+        width: 468px;
+        height: 312px;
+    }
+
+    .find {
+        padding-left: calc(50% - 628px / 2);
+        padding-right: calc(50% - 628px / 2);
+    }
+
+    .subtitle_contacts {
+        margin-left: 0px;
+    }
+
+    .map {
+        width: 826px;
+        height: 500px;
+    }
+
+    .our__contacts {
+        margin-left: 0px;
+    }
+
+    .address {
+        margin-left: 0px;
+    }
+
+}
